@@ -1,0 +1,4 @@
+cat > sample-app/requirements.txt <<EOF
+Flask
+EOF
+
