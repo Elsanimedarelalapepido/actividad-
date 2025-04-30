@@ -1,4 +1,4 @@
-cat > sample-app/sample_app.py <<'EOF'
+cat > sample/sample.py <<'EOF'
 from flask import Flask, render_template
 
 app = Flask(__name__)
